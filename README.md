@@ -1,4 +1,4 @@
-<h1>AI跨境电商系统(Toutiao News)</h1>
+<h1>AI跨境电商系统(Toutiao E-commerce)</h1>
 
 一个基于FastAPI和SQLAlchemy构建的跨境电商系统,支持用户注册登录、商品浏览、收藏和历史
 记录等功能。
